@@ -1,0 +1,11 @@
+.h1 {
+    font-size: 20px;
+    color:aquamarine
+
+}
+
+.img {
+    width: 200px;
+    height: 80px;
+    border: 2px solid pink;
+}
